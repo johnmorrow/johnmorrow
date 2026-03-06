@@ -19,6 +19,6 @@ Telegram to Claude Code bridge via tmux.
 ### [pk](https://github.com/johnmorrow/pk)
 A field extractor command line utility.
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![GitHub stars](https://img.shields.io/github/stars/johnmorrow/pk?style=flat)
 [![License](https://img.shields.io/github/license/johnmorrow/pk)](https://github.com/johnmorrow/pk/blob/master/LICENSE)

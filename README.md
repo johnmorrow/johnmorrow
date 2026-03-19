@@ -4,6 +4,13 @@ Software engineer building CLI tools and automation.
 
 ## Projects
 
+### [iterm2-client](https://github.com/johnmorrow/iterm2-client)
+Rust client for the iTerm2 scripting API (WebSocket + Protobuf).
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+[![crates.io](https://img.shields.io/crates/v/iterm2-client)](https://crates.io/crates/iterm2-client)
+[![License](https://img.shields.io/github/license/johnmorrow/iterm2-client)](https://github.com/johnmorrow/iterm2-client/blob/main/LICENSE)
+
 ### [flowstate](https://github.com/johnmorrow/flowstate)
 A task management CLI for AI agents.
 

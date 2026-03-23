@@ -4,6 +4,12 @@ Software engineer building CLI tools and automation.
 
 ## Projects
 
+### [terminal-inspector](https://github.com/johnmorrow/terminal-inspector)
+CLI tool to inspect running terminal emulators and multiplexer sessions on macOS. Supports iTerm2, Terminal.app, kitty, WezTerm, Ghostty, Alacritty, tmux, Zellij, and Shelldon.
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+[![License](https://img.shields.io/github/license/johnmorrow/terminal-inspector)](https://github.com/johnmorrow/terminal-inspector/blob/main/LICENSE)
+
 ### [iterm2-client](https://github.com/johnmorrow/iterm2-client)
 Rust client for the iTerm2 scripting API (WebSocket + Protobuf).
 
